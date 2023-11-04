@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/775ed67e1d46c9534c3cb9a4694edf0603b1436a7e3e15891d3c327733fc26b6/68747470733a2f2f7777772e61756469656e6365706c616e65742e636f6d2f726f6f742f74656d706c6174652f312f2f696d616765732f7765622d646576656c6f706d656e742e676966)](https://rishavchanda.io) 
+[![MasterHead](https://camo.githubusercontent.com/775ed67e1d46c9534c3cb9a4694edf0603b1436a7e3e15891d3c327733fc26b6/68747470733a2f2f7777772e61756469656e6365706c616e65742e636f6d2f726f6f742f74656d706c6174652f312f2f696d616765732f7765622d646576656c6f706d656e742e676966)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Faizan Alam</h1>
 <h3 align="center">Passionate Full Stack Web Developer with expertise in front-end technologies (HTML, CSS, JavaScript, Bootstrap, ReactJS) and back-end technologies (Node.js, Express) to create seamless web applications. Proficient in MongoDB for robust data management and Handlebars for dynamic templating. Committed to crafting user-friendly, responsive interfaces and scalable server-side architecture. Eager to collaborate and learn while shaping the digital future. Let's code together!</h3>
 <img align="right" width="400" src="https://miro.medium.com/v2/resize:fit:828/1*gReLR6hZjwyBxHmfLN1AVw.gif" alt="Coding">
@@ -32,6 +32,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faizanalam416&show_icons=true&locale=en&layout=compact" alt="faizanalam416" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faizanalam416&show_icons=true&locale=en&border_radius=4.5" alt="faizanalam416" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faizanalam416&show_icons=true&locale=en" alt="faizanalam416" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faizanalam416&border_radius=5" alt="faizanalam416" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faizanalam416&" alt="faizanalam416" /></p>
